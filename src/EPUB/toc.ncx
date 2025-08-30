@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="20250830205349" name="dtb:uid"/>
+    <meta content="0" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>भिखारी</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="chapter_0">
+      <navLabel>
+        <text>आवरण पृष्ठ</text>
+      </navLabel>
+      <content src="text/coverpage.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_1">
+      <navLabel>
+        <text>शीर्षक पृष्ठ</text>
+      </navLabel>
+      <content src="text/titlepage.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_2">
+      <navLabel>
+        <text>प्रतिलिपि अधिकार पृष्ठ</text>
+      </navLabel>
+      <content src="text/copyrightpage.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_3">
+      <navLabel>
+        <text>विषयसूची</text>
+      </navLabel>
+      <content src="text/tocpage.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_4">
+      <navLabel>
+        <text>भिखारी</text>
+      </navLabel>
+      <content src="text/bhikari.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_5">
+      <navLabel>
+        <text>बादल</text>
+      </navLabel>
+      <content src="text/baadal.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_6">
+      <navLabel>
+        <text>तिनको घँसिया गीत</text>
+      </navLabel>
+      <content src="text/tinko-ghasiya-geet.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_7">
+      <navLabel>
+        <text>माली</text>
+      </navLabel>
+      <content src="text/maali.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_8">
+      <navLabel>
+        <text>सन्ध्या</text>
+      </navLabel>
+      <content src="text/sandhya.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_9">
+      <navLabel>
+        <text>सम्झना</text>
+      </navLabel>
+      <content src="text/samjhana.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_10">
+      <navLabel>
+        <text>यात्री</text>
+      </navLabel>
+      <content src="text/yatri.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_11">
+      <navLabel>
+        <text>वन</text>
+      </navLabel>
+      <content src="text/ban.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_12">
+      <navLabel>
+        <text>प्रश्नोत्तर</text>
+      </navLabel>
+      <content src="text/prashnottar.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_13">
+      <navLabel>
+        <text>आफ्नो घर</text>
+      </navLabel>
+      <content src="text/afno-ghar.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_14">
+      <navLabel>
+        <text>जीवन वन</text>
+      </navLabel>
+      <content src="text/jivan-ban.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_15">
+      <navLabel>
+        <text>बालककाल</text>
+      </navLabel>
+      <content src="text/baalakkaal.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_16">
+      <navLabel>
+        <text>वृक्ष</text>
+      </navLabel>
+      <content src="text/briksha.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_17">
+      <navLabel>
+        <text>गरीब</text>
+      </navLabel>
+      <content src="text/garib.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_18">
+      <navLabel>
+        <text>किसान</text>
+      </navLabel>
+      <content src="text/kisan.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_19">
+      <navLabel>
+        <text>चारु</text>
+      </navLabel>
+      <content src="text/charu.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_20">
+      <navLabel>
+        <text>वसन्त</text>
+      </navLabel>
+      <content src="text/vasanta.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_21">
+      <navLabel>
+        <text>जीवन</text>
+      </navLabel>
+      <content src="text/jivan.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_22">
+      <navLabel>
+        <text>अन्त्यमा</text>
+      </navLabel>
+      <content src="text/antyama.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_23">
+      <navLabel>
+        <text>जिन्दगीको मौसम</text>
+      </navLabel>
+      <content src="text/jindagi-mausam.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_24">
+      <navLabel>
+        <text>झरना</text>
+      </navLabel>
+      <content src="text/jharana.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_25">
+      <navLabel>
+        <text>घाँसी</text>
+      </navLabel>
+      <content src="text/ghasi.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>
